@@ -1,5 +1,7 @@
 # myFiber
 
+> 技术栈 golang, Go-Fiber, Gorm, mysql
+
 ## 使用
 1. 导入mysql：`database/myfiber.sql`
 
