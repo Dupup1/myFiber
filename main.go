@@ -18,7 +18,6 @@ func main() {
 	app := fiber.New(fiber.Config{
 		Prefork: false,
 	})
-
 	database.InitDatabase()
 	migration.RunMigration()
 
